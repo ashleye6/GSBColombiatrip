@@ -3,8 +3,6 @@ Tripwebsite::Application.routes.draw do
   get "welcome/new"
   root "welcome#new"
 
-  /home/ashleye6/gsbcolombiatrip.com/public/colombiatrip2014/
-
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
