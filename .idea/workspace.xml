@@ -23,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="44" selection-start="3165" selection-end="3165" vertical-scroll-proportion="0.0" vertical-offset="1150" max-vertical-offset="2505">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="27" selection-start="551" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,9 +35,23 @@
       <file leaf-file-name="grayscale.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="92" selection-start="2485" selection-end="2485" vertical-scroll-proportion="0.33943427" vertical-offset="1746" max-vertical-offset="5415">
+            <state line="253" column="108" selection-start="4909" selection-end="4909" vertical-scroll-proportion="0.5890183" vertical-offset="3441" max-vertical-offset="5415">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lights2.JPG" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/images/lights2.JPG">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="downloads-bg.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/images/downloads-bg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -138,8 +134,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-38" />
-    <option name="y" value="171" />
+    <option name="x" value="-14" />
+    <option name="y" value="22" />
     <option name="width" value="1152" />
     <option name="height" value="734" />
   </component>
@@ -460,7 +456,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-38" y="171" width="1152" height="734" extended-state="0" />
+    <frame x="-14" y="22" width="1152" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -717,9 +713,19 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/lights2.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/downloads-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="92" selection-start="2485" selection-end="2485" vertical-scroll-proportion="0.33943427" vertical-offset="1746" max-vertical-offset="5415">
+        <state line="253" column="108" selection-start="4909" selection-end="4909" vertical-scroll-proportion="0.5890183" vertical-offset="3441" max-vertical-offset="5415">
           <folding />
         </state>
       </provider>
