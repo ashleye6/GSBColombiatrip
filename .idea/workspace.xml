@@ -50,12 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grayscale.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="grayscale.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="253" column="36" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.0" vertical-offset="3675" max-vertical-offset="5415">
+            <state line="130" column="92" selection-start="2485" selection-end="2485" vertical-scroll-proportion="0.33943427" vertical-offset="1746" max-vertical-offset="5415">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intro-bg.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/images/intro-bg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -95,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.09375" vertical-offset="0" max-vertical-offset="990">
+            <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -120,19 +127,19 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/app/views/welcome/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css" />
         <option value="/private/var/folders/09/mdgj83hs38df6cdk38820tpw0000gn/T/fz3temp-1/Gemfile" />
         <option value="/private/var/folders/09/mdgj83hs38df6cdk38820tpw0000gn/T/fz3temp-1/post-update.sample" />
         <option value="$PROJECT_DIR$/.git/post-update.sample" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="145" />
+    <option name="x" value="-38" />
+    <option name="y" value="171" />
     <option name="width" value="1152" />
     <option name="height" value="734" />
   </component>
@@ -227,6 +234,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -399,7 +460,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="145" width="1152" height="734" extended-state="0" />
+    <frame x="-38" y="171" width="1152" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -616,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="253" column="36" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.0" vertical-offset="3675" max-vertical-offset="5415">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.git/post-update.sample">
       <provider selected="true" editor-type-id="text-editor">
         <state line="88" column="2" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
@@ -653,7 +707,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.09375" vertical-offset="0" max-vertical-offset="990">
+        <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/intro-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="92" selection-start="2485" selection-end="2485" vertical-scroll-proportion="0.33943427" vertical-offset="1746" max-vertical-offset="5415">
           <folding />
         </state>
       </provider>
