@@ -35,7 +35,7 @@
       <file leaf-file-name="grayscale.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="253" column="34" selection-start="4835" selection-end="4835" vertical-scroll-proportion="0.5890183" vertical-offset="3441" max-vertical-offset="5415">
+            <state line="249" column="19" selection-start="4745" selection-end="4745" vertical-scroll-proportion="0.33943427" vertical-offset="3531" max-vertical-offset="5415">
               <folding />
             </state>
           </provider>
@@ -134,8 +134,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="192" />
+    <option name="x" value="111" />
+    <option name="y" value="228" />
     <option name="width" value="1152" />
     <option name="height" value="734" />
   </component>
@@ -456,7 +456,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="192" width="1152" height="734" extended-state="0" />
+    <frame x="111" y="228" width="1152" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -725,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="253" column="34" selection-start="4835" selection-end="4835" vertical-scroll-proportion="0.5890183" vertical-offset="3441" max-vertical-offset="5415">
+        <state line="249" column="19" selection-start="4745" selection-end="4745" vertical-scroll-proportion="0.33943427" vertical-offset="3531" max-vertical-offset="5415">
           <folding />
         </state>
       </provider>
