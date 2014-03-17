@@ -35,7 +35,7 @@
       <file leaf-file-name="grayscale.css.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="1" selection-start="673" selection-end="673" vertical-scroll-proportion="0.54908484" vertical-offset="315" max-vertical-offset="5475">
+            <state line="106" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.59900165" vertical-offset="1230" max-vertical-offset="5475">
               <folding />
             </state>
           </provider>
@@ -788,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="1" selection-start="673" selection-end="673" vertical-scroll-proportion="0.54908484" vertical-offset="315" max-vertical-offset="5475">
+        <state line="106" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.59900165" vertical-offset="1230" max-vertical-offset="5475">
           <folding />
         </state>
       </provider>
