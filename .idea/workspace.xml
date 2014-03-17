@@ -35,7 +35,7 @@
       <file leaf-file-name="grayscale.css.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="246" column="0" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.26455906" vertical-offset="3531" max-vertical-offset="5415">
+            <state line="19" column="4" selection-start="259" selection-end="259" vertical-scroll-proportion="0.3078203" vertical-offset="100" max-vertical-offset="5415">
               <folding />
             </state>
           </provider>
@@ -130,12 +130,13 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="175" />
+    <option name="x" value="43" />
+    <option name="y" value="39" />
     <option name="width" value="1152" />
     <option name="height" value="734" />
   </component>
@@ -478,7 +479,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="175" width="1152" height="734" extended-state="0" />
+    <frame x="43" y="39" width="1152" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -747,7 +748,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="0" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.26455906" vertical-offset="3531" max-vertical-offset="5415">
+        <state line="19" column="4" selection-start="259" selection-end="259" vertical-scroll-proportion="0.3078203" vertical-offset="100" max-vertical-offset="5415">
           <folding />
         </state>
       </provider>
