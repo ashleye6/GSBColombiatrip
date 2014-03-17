@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="139" column="0" selection-start="5464" selection-end="5464" vertical-scroll-proportion="0.35323384" vertical-offset="1872" max-vertical-offset="2505">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grayscale.css.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="grayscale.css.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="259" selection-end="259" vertical-scroll-proportion="0.3078203" vertical-offset="100" max-vertical-offset="5415">
+            <state line="19" column="4" selection-start="259" selection-end="259" vertical-scroll-proportion="8.653846" vertical-offset="510" max-vertical-offset="5415">
               <folding />
             </state>
           </provider>
@@ -121,7 +121,6 @@
         <option value="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/bootstrap-sass-3.1.1.0/vendor/assets/javascripts/bootstrap.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/app/views/welcome/new.html.erb" />
         <option value="/private/var/folders/09/mdgj83hs38df6cdk38820tpw0000gn/T/fz3temp-1/Gemfile" />
         <option value="/private/var/folders/09/mdgj83hs38df6cdk38820tpw0000gn/T/fz3temp-1/post-update.sample" />
         <option value="$PROJECT_DIR$/.git/post-update.sample" />
@@ -131,12 +130,13 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb" />
+        <option value="$PROJECT_DIR$/app/views/welcome/new.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
-    <option name="y" value="39" />
+    <option name="x" value="117" />
+    <option name="y" value="22" />
     <option name="width" value="1152" />
     <option name="height" value="734" />
   </component>
@@ -231,6 +231,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welcome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -479,7 +519,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="39" width="1152" height="734" extended-state="0" />
+    <frame x="117" y="22" width="1152" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -675,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="44" selection-start="3165" selection-end="3165" vertical-scroll-proportion="0.0" vertical-offset="1150" max-vertical-offset="2505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="4376" selection-start="4887" selection-end="4887" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
@@ -748,7 +781,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="259" selection-end="259" vertical-scroll-proportion="0.3078203" vertical-offset="100" max-vertical-offset="5415">
+        <state line="19" column="4" selection-start="259" selection-end="259" vertical-scroll-proportion="8.653846" vertical-offset="510" max-vertical-offset="5415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="0" selection-start="5464" selection-end="5464" vertical-scroll-proportion="0.35323384" vertical-offset="1872" max-vertical-offset="2505">
           <folding />
         </state>
       </provider>
