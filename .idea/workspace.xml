@@ -26,7 +26,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="41" selection-start="2319" selection-end="2319" vertical-scroll-proportion="0.6927711" vertical-offset="690" max-vertical-offset="2595">
+            <state line="88" column="13" selection-start="2885" selection-end="2885" vertical-scroll-proportion="0.36144578" vertical-offset="1140" max-vertical-offset="2610">
               <folding />
             </state>
           </provider>
@@ -389,6 +389,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tripwebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1223,7 +1241,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="41" selection-start="2319" selection-end="2319" vertical-scroll-proportion="0.6927711" vertical-offset="690" max-vertical-offset="2595">
+        <state line="88" column="13" selection-start="2885" selection-end="2885" vertical-scroll-proportion="0.36144578" vertical-offset="1140" max-vertical-offset="2610">
           <folding />
         </state>
       </provider>
