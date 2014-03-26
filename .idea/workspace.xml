@@ -43,6 +43,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="70" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.3721374" vertical-offset="1140" max-vertical-offset="2715">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="1" selection-start="507" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,24 +74,6 @@
         <entry file="file://$PROJECT_DIR$/app/helpers/welcome_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="0" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.6870229" vertical-offset="945" max-vertical-offset="2640">
               <folding />
             </state>
           </provider>
@@ -133,7 +133,6 @@
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/grayscale.js" />
         <option value="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/bootstrap-sass-3.1.1.0/vendor/assets/javascripts/bootstrap.js" />
@@ -141,12 +140,13 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb" />
         <option value="$PROJECT_DIR$/app/views/welcome/new.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
+    <option name="x" value="16" />
     <option name="y" value="22" />
     <option name="width" value="1152" />
     <option name="height" value="730" />
@@ -872,7 +872,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="22" width="1152" height="730" extended-state="0" />
+    <frame x="16" y="22" width="1152" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -960,7 +960,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="664" column="48" selection-start="15354" selection-end="15363" vertical-scroll-proportion="0.0" vertical-offset="6950" max-vertical-offset="155145">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1163,13 +1163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="33" selection-start="3742" selection-end="3742" vertical-scroll-proportion="1.2290076" vertical-offset="2311" max-vertical-offset="5475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/bootstrap-sass-3.1.1.0/vendor/assets/stylesheets/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
@@ -1190,7 +1183,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="25" selection-start="309" selection-end="309" vertical-scroll-proportion="0.3558394" vertical-offset="15" max-vertical-offset="154830">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1216,13 +1209,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="507" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="63" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="359">
@@ -1244,16 +1230,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="359">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="359">
+        <state line="9" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.25139666" vertical-offset="0" max-vertical-offset="537">
           <folding />
         </state>
       </provider>
@@ -1265,16 +1251,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="300">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="507" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/grayscale.css.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="18" selection-start="2181" selection-end="2191" vertical-scroll-proportion="0.33333334" vertical-offset="1619" max-vertical-offset="5475">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="0" selection-start="2733" selection-end="2733" vertical-scroll-proportion="0.6870229" vertical-offset="945" max-vertical-offset="2640">
+        <state line="89" column="70" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.3721374" vertical-offset="1140" max-vertical-offset="2715">
           <folding />
         </state>
       </provider>
