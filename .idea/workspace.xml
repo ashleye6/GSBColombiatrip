@@ -43,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="117" column="51" selection-start="4371" selection-end="4371" vertical-scroll-proportion="0.34160304" vertical-offset="1576" max-vertical-offset="2730">
+            <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="507" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="101" column="128" selection-start="3702" selection-end="3702" vertical-scroll-proportion="0.54198474" vertical-offset="1231" max-vertical-offset="2730">
               <folding />
             </state>
           </provider>
@@ -146,8 +146,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="22" />
+    <option name="x" value="9" />
+    <option name="y" value="132" />
     <option name="width" value="1152" />
     <option name="height" value="730" />
   </component>
@@ -872,7 +872,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="22" width="1152" height="730" extended-state="0" />
+    <frame x="9" y="132" width="1152" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1107,13 +1107,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.git/post-update.sample">
       <provider selected="true" editor-type-id="text-editor">
         <state line="88" column="2" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.84070796" vertical-offset="845" max-vertical-offset="1410" />
@@ -1272,9 +1265,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="51" selection-start="4371" selection-end="4371" vertical-scroll-proportion="0.34160304" vertical-offset="1576" max-vertical-offset="2730">
+        <state line="101" column="128" selection-start="3702" selection-end="3702" vertical-scroll-proportion="0.54198474" vertical-offset="1231" max-vertical-offset="2730">
           <folding />
         </state>
       </provider>
