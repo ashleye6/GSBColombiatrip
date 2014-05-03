@@ -53,7 +53,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="232" column="21" selection-start="9788" selection-end="9788" vertical-scroll-proportion="0.6111111" vertical-offset="3161" max-vertical-offset="4860">
+            <state line="232" column="38" selection-start="9805" selection-end="9805" vertical-scroll-proportion="0.6111111" vertical-offset="3161" max-vertical-offset="4860">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -210,8 +210,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="74" />
-    <option name="y" value="89" />
+    <option name="x" value="30" />
+    <option name="y" value="160" />
     <option name="width" value="1152" />
     <option name="height" value="726" />
   </component>
@@ -914,7 +914,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="89" width="1152" height="726" extended-state="0" />
+    <frame x="30" y="160" width="1152" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1334,7 +1334,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="232" column="21" selection-start="9788" selection-end="9788" vertical-scroll-proportion="0.6111111" vertical-offset="3161" max-vertical-offset="4860">
+        <state line="232" column="38" selection-start="9805" selection-end="9805" vertical-scroll-proportion="0.6111111" vertical-offset="3161" max-vertical-offset="4860">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
