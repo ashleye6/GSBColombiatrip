@@ -53,7 +53,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="266" column="159" selection-start="11772" selection-end="11772" vertical-scroll-proportion="0.5766283" vertical-offset="3689" max-vertical-offset="5325">
+            <state line="111" column="0" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.545977" vertical-offset="1380" max-vertical-offset="3000">
               <folding />
             </state>
           </provider>
@@ -207,7 +207,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="9" />
+    <option name="y" value="96" />
     <option name="width" value="1152" />
     <option name="height" value="726" />
   </component>
@@ -910,7 +911,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1152" height="726" extended-state="0" />
+    <frame x="9" y="96" width="1152" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1317,7 +1318,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="266" column="159" selection-start="11772" selection-end="11772" vertical-scroll-proportion="0.5766283" vertical-offset="3689" max-vertical-offset="5325">
+        <state line="111" column="0" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.545977" vertical-offset="1380" max-vertical-offset="3000">
           <folding />
         </state>
       </provider>
